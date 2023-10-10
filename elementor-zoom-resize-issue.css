@@ -1,0 +1,4 @@
+/* use header parent container */
+selector{
+    width: -webkit-fill-available;
+}
